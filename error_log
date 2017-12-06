@@ -1,0 +1,945 @@
+[04-Jun-2017 16:20:08 UTC] PHP Parse error:  syntax error, unexpected 'VALUES' (T_STRING) in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 18
+[04-Jun-2017 16:20:11 UTC] PHP Parse error:  syntax error, unexpected 'VALUES' (T_STRING) in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 18
+[04-Jun-2017 16:20:33 UTC] PHP Parse error:  syntax error, unexpected 'VALUES' (T_STRING) in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 19
+[04-Jun-2017 16:27:42 UTC] PHP Parse error:  syntax error, unexpected 'VALUES' (T_STRING) in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 18
+[04-Jun-2017 16:29:51 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:29:51 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:29:51 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:29:51 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:35:09 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:35:09 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:35:09 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:35:09 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:41:44 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:41:44 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:41:44 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:41:44 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:42:22 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:42:22 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:42:22 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:42:22 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:43:06 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:43:06 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:43:06 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:43:06 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:44:06 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:44:06 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:44:06 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:44:06 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:49:12 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:49:12 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:49:12 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:49:12 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:51:37 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:51:37 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:51:37 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:51:37 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:54:05 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:54:05 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:54:05 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:54:05 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 16:57:43 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 16:57:43 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 16:57:43 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 16:57:43 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 17:06:19 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 17:06:19 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 17:06:19 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 17:06:19 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 17:10:01 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 6
+[04-Jun-2017 17:10:01 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 7
+[04-Jun-2017 17:10:01 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 17:10:01 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 9
+[04-Jun-2017 17:11:11 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 17:11:17 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/updateclient.php on line 8
+[04-Jun-2017 18:27:54 UTC] PHP Warning:  array_column() expects at most 3 parameters, 5 given in /home/timetablenyc/public_html/x/Res001/ressy.php on line 27
+[04-Jun-2017 18:40:58 UTC] PHP Warning:  array_column() expects at most 3 parameters, 5 given in /home/timetablenyc/public_html/x/Res001/ressy.php on line 27
+[04-Jun-2017 18:41:00 UTC] PHP Warning:  array_column() expects at most 3 parameters, 5 given in /home/timetablenyc/public_html/x/Res001/ressy.php on line 27
+[04-Jun-2017 18:47:33 UTC] PHP Warning:  array_column() expects at most 3 parameters, 5 given in /home/timetablenyc/public_html/x/Res001/ressy.php on line 27
+[04-Jun-2017 18:50:44 UTC] PHP Warning:  Illegal string offset 'Party' in /home/timetablenyc/public_html/x/Res001/showtime.php on line 33
+[04-Jun-2017 18:52:07 UTC] PHP Notice:  Undefined index: Party, WaitResA in /home/timetablenyc/public_html/x/Res001/showtime.php on line 33
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:09:13 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:09:19 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:11:02 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:11:02 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:11:02 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:11:38 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:54 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:56 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:13:58 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:00 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:01 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:04 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:08 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:55 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:55 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:14:55 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:34 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:34 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:34 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:35 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:35 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:35 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:36 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:36 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:36 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:41 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:41 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:41 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:42 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:42 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:42 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:45 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:53 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:53 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:53 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:55 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:55 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:21:55 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:42 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:42 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:45 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:45 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:52 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:52 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:52 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:52 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:52 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:54 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:54 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:54 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:30:54 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:30:54 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:31:05 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:31:05 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:33:36 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:33:36 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:33:37 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:33:37 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:37:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:37:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:37:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:37:20 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:37:20 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:37:25 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:37:25 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:15 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:15 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:20 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:20 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:21 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:21 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:21 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:21 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:21 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:22 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:22 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:22 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:22 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:22 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:23 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:23 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:23 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:23 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:23 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:25 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:25 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:26 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:26 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:26 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:26 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:26 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:27 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:27 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:27 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:27 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:27 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:31 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:31 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:31 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:39:31 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:39:31 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:57:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:15 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:15 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:57:15 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:57:16 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:16 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:16 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:16 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:57:16 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:57:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:20 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:57:20 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:57:20 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:58:08 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:58:08 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:58:10 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:58:10 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:59:02 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:59:02 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:59:02 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:59:02 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:59:02 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:59:03 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:59:03 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:59:03 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 8
+[05-Jun-2017 01:59:03 UTC] PHP Notice:  Use of undefined constant CURLOPT_HTTPHEADERS - assumed 'CURLOPT_HTTPHEADERS' in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 01:59:03 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 02:05:25 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 02:05:25 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:05:38 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 02:05:38 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 02:05:38 UTC] PHP Notice:  Undefined variable: myvar2 in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 02:05:38 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:06:56 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:06:56 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:06:56 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:06:56 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:06:56 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:07:08 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:08:57 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:09:01 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:09:07 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 02:09:42 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:09:42 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:09:42 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:09:42 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:09:42 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:09:42 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:11:11 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:11:39 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:12:17 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:20:05 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:20:21 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:20:38 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:20:42 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:20:44 UTC] PHP Fatal error:  Call to undefined function http_post_data() in /home/timetablenyc/public_html/x/Res001/test.php on line 11
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: last_name in /home/timetablenyc/public_html/x/Res001/test.php on line 18
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: first_name in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: title in /home/timetablenyc/public_html/x/Res001/test.php on line 20
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined index: phone in /home/timetablenyc/public_html/x/Res001/test.php on line 21
+[05-Jun-2017 02:20:53 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 25
+[05-Jun-2017 02:20:58 UTC] PHP Notice:  Undefined index: last_name in /home/timetablenyc/public_html/x/Res001/test.php on line 18
+[05-Jun-2017 02:20:58 UTC] PHP Notice:  Undefined index: first_name in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:20:58 UTC] PHP Notice:  Undefined index: title in /home/timetablenyc/public_html/x/Res001/test.php on line 20
+[05-Jun-2017 02:20:58 UTC] PHP Notice:  Undefined index: phone in /home/timetablenyc/public_html/x/Res001/test.php on line 21
+[05-Jun-2017 02:20:58 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 25
+[05-Jun-2017 02:26:19 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:26:19 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:26:19 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:26:19 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:26:19 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:26:19 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:26:21 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:26:21 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:26:21 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:26:21 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:26:21 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:26:21 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:26:24 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:02 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:02 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:02 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:02 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:02 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:02 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:03 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:03 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:03 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:03 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:03 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:03 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:09 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:10 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:10 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:10 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:10 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:10 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:10 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:11 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:11 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:11 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:11 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:11 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:11 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:12 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:13 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:13 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:13 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:13 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:13 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:13 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:14 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:14 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:14 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:14 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:14 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:14 UTC] PHP Notice:  Undefined variable: Array in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:17 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:17 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:17 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:17 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:17 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:18 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:19 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:20 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:21 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:21 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:21 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:21 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:21 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:22 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:23 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:23 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:23 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:23 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:23 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:24 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:25 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:25 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:25 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:25 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:25 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:26 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:26 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:26 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:26 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:26 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:27 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:27 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:27 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:27 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:27 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: People in /home/timetablenyc/public_html/x/Res001/test.php on line 16
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 17
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 19
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: fields_string in /home/timetablenyc/public_html/x/Res001/test.php on line 23
+[05-Jun-2017 02:27:29 UTC] PHP Notice:  Undefined variable: chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59349755e4b0c44630b6b7c6&People=&Name=&time=1&Phone=& in /home/timetablenyc/public_html/x/Res001/test.php on line 35
+[05-Jun-2017 02:34:21 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:34:21 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:34:21 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:34:21 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:34:21 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:34:30 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:34:30 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:34:30 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:34:30 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:34:30 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:35:43 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:35:43 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:35:43 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:35:43 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:35:43 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:38:47 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:38:47 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:38:47 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:38:47 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:38:47 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:38:56 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:38:56 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:38:56 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:38:56 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:38:56 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:39:00 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:39:00 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:39:00 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:39:00 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:39:00 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:39:40 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:39:40 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:39:40 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:39:40 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:39:40 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:39:44 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:39:44 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:39:44 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:39:44 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:39:44 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:39:48 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:39:48 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:39:48 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:39:48 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:39:48 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:39:50 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:39:50 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:39:50 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:39:50 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:39:50 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:39:53 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:39:53 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:39:53 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:39:53 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:39:53 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:40:18 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:40:18 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:40:18 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:40:18 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:40:18 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:40:21 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:40:21 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:40:21 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:40:21 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:40:21 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:40:56 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:40:56 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:40:56 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:40:56 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:40:56 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:40:59 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:40:59 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:40:59 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:40:59 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:40:59 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:41:08 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:41:08 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:41:08 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:41:08 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:41:08 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:41:12 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:41:12 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:41:12 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:41:12 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:41:12 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:41:30 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:41:30 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:41:30 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:41:30 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:41:30 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:41:58 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:41:58 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:41:58 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:41:58 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:41:58 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:42:01 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:42:01 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:42:01 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:42:01 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:42:01 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:42:29 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:42:29 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:42:29 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:42:29 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:42:29 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:42:35 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:42:35 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:42:35 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:42:35 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:42:35 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 02:42:38 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 02:42:38 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 02:42:38 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 02:42:38 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 02:42:38 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:05:55 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:05:55 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:05:55 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:05:55 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:05:55 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:23:49 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:24:01 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:24:07 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:24:09 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:24:46 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:25:01 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:28:26 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:28:29 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:28:32 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/timetablenyc/public_html/x/Res001/test.php on line 14
+[05-Jun-2017 03:31:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/timetablenyc/public_html/x/Res001/test.php on line 27
+[05-Jun-2017 03:31:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/timetablenyc/public_html/x/Res001/test.php on line 27
+[05-Jun-2017 03:42:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/timetablenyc/public_html/x/Res001/test.php on line 27
+[05-Jun-2017 03:42:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/timetablenyc/public_html/x/Res001/test.php on line 27
+[05-Jun-2017 03:42:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/timetablenyc/public_html/x/Res001/test.php on line 27
+[05-Jun-2017 03:42:18 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:42:19 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:42:20 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:42:21 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:42:22 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:42:25 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:43:33 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:43:33 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:43:33 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:43:33 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:43:33 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:43:33 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:44:57 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:15 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:18 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:19 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:25 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:26 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:27 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:29 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:46:29 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:46:29 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:46:29 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:46:29 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:46:29 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:33 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:37 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:38 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:38 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:39 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:46:39 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:28 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:29 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:30 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:31 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:32 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:33 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:34 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:35 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:35 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:36 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:36 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:37 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:37 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:38 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:38 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:39 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:39 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:40 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:40 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:40 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:41 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:41 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:41 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:41 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:42 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:42 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:42 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:42 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:42 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:43 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:43 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:43 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:43 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:43 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:44 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:44 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:44 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:44 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:45 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:45 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:45 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:45 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:46 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:46 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:46 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:46 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:46 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:47 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:47 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:48 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:47:50 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:47:50 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:47:50 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:47:50 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:47:50 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:47:50 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:50:50 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:51:14 UTC] PHP Notice:  Undefined variable: url in /home/timetablenyc/public_html/x/Res001/test.php on line 15
+[05-Jun-2017 03:53:18 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:53:18 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:53:18 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:53:18 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:53:18 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:53:54 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:53:54 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:53:54 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:53:54 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:53:54 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 03:55:12 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 03:55:12 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 03:55:12 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 03:55:12 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 03:55:12 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 17:22:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:22:16 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:22:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:23:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:23:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:32:35 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:32:35 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 17:32:35 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 17:32:35 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 17:32:35 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 17:36:43 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:41:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:32 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:36 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:49:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:39 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:51:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:52:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 17:54:03 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 17:54:31 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 17:59:04 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:04:56 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:04:58 UTC] PHP Notice:  Array to string conversion in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:10:45 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 18:10:45 UTC] PHP Notice:  Undefined variable: people in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 18:10:52 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 18:10:52 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 18:10:52 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 18:10:52 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:10:52 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 18:10:52 UTC] PHP Notice:  Undefined variable: people in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 18:11:05 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 18:11:05 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 18:11:05 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 18:11:05 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:11:05 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 18:11:05 UTC] PHP Notice:  Undefined variable: people in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 18:12:19 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 18:12:19 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 18:12:19 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 18:12:19 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:12:19 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 18:12:19 UTC] PHP Notice:  Undefined variable: people in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 18:13:10 UTC] PHP Notice:  Undefined variable: people in /home/timetablenyc/public_html/x/Res001/test.php on line 10
+[05-Jun-2017 18:14:09 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 18:14:09 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 18:14:09 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 18:14:09 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:14:09 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 18:23:52 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[05-Jun-2017 18:23:52 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 18:23:52 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 18:23:52 UTC] PHP Notice:  Undefined index: time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 18:23:52 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 20:08:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/timetablenyc/public_html/x/Res001/test.php on line 28
+[05-Jun-2017 20:08:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/timetablenyc/public_html/x/Res001/test.php on line 28
+[05-Jun-2017 20:21:36 UTC] PHP Parse error:  syntax error, unexpected 'curl_close' (T_STRING) in /home/timetablenyc/public_html/x/Res001/test.php on line 26
+[05-Jun-2017 21:46:23 UTC] PHP Notice:  Undefined variable: curl in /home/timetablenyc/public_html/x/Res001/test.php on line 13
+[05-Jun-2017 21:46:23 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/timetablenyc/public_html/x/Res001/test.php on line 13
+[05-Jun-2017 21:59:51 UTC] PHP Notice:  Undefined variable: curl in /home/timetablenyc/public_html/x/Res001/test.php on line 13
+[05-Jun-2017 21:59:51 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/timetablenyc/public_html/x/Res001/test.php on line 13
+[05-Jun-2017 21:59:58 UTC] PHP Notice:  Undefined variable: curl in /home/timetablenyc/public_html/x/Res001/test.php on line 13
+[05-Jun-2017 21:59:58 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/timetablenyc/public_html/x/Res001/test.php on line 13
+[05-Jun-2017 22:01:36 UTC] PHP Notice:  Undefined index: published in /home/timetablenyc/public_html/x/Res001/test.php on line 33
+[05-Jun-2017 22:46:31 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 22:46:31 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 22:46:31 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 22:46:31 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 22:46:31 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[05-Jun-2017 22:46:37 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[05-Jun-2017 22:46:37 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[05-Jun-2017 22:46:37 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[05-Jun-2017 22:46:37 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[05-Jun-2017 22:46:37 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 7
+[06-Jun-2017 02:25:55 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 02:25:55 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[06-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 02:27:16 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[06-Jun-2017 02:27:51 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 02:27:51 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[06-Jun-2017 02:28:04 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[06-Jun-2017 02:30:18 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 02:32:56 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 02:33:17 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[06-Jun-2017 02:33:17 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[06-Jun-2017 02:33:17 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 02:33:17 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[06-Jun-2017 12:28:47 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 12:28:47 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[06-Jun-2017 13:30:45 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[06-Jun-2017 13:30:45 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[08-Jun-2017 15:59:11 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[08-Jun-2017 15:59:11 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[08-Jun-2017 16:01:47 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[08-Jun-2017 16:01:47 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[08-Jun-2017 16:04:11 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[08-Jun-2017 16:07:01 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[16-Jun-2017 14:55:24 UTC] PHP Notice:  Undefined index: Party in /home/timetablenyc/public_html/x/Res001/showtime.php on line 33
+[19-Jun-2017 03:16:00 UTC] PHP Notice:  Undefined index: Target in /home/timetablenyc/public_html/x/Res001/test.php on line 2
+[19-Jun-2017 03:16:00 UTC] PHP Notice:  Undefined index: People in /home/timetablenyc/public_html/x/Res001/test.php on line 3
+[19-Jun-2017 03:16:00 UTC] PHP Notice:  Undefined index: Name in /home/timetablenyc/public_html/x/Res001/test.php on line 4
+[19-Jun-2017 03:16:00 UTC] PHP Notice:  Undefined index: Time in /home/timetablenyc/public_html/x/Res001/test.php on line 5
+[19-Jun-2017 03:16:00 UTC] PHP Notice:  Undefined index: User in /home/timetablenyc/public_html/x/Res001/test.php on line 6
+[19-Jun-2017 03:16:00 UTC] PHP Notice:  Undefined index: Phone in /home/timetablenyc/public_html/x/Res001/test.php on line 7

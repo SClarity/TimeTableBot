@@ -24,12 +24,12 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 
-$TimeW = array_column($rows, 'WaitResA');
+$TimeW = array_column($rows, 'Party','Name','Time','Phone');
 $conn->close();
 ?>
 
 {
  "messages": [
-   {"text": "<?php echo $rows[0]["WaitResA"]; ?> Minutes"}
+   {"text": "<?php echo $rows[4]["Party"]; ?>"}
  ]
 }
