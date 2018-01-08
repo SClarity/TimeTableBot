@@ -2,7 +2,7 @@
 $target= $_GET["Target"];
 $time= $_GET["Time"];
 
-$daurl = 'https://api.chatfuel.com/bots/592eabfae4b0c446212c0749/users/' .$target . '/send?chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59398f16e4b0ef6705b99be0&Time=' .$time . '';
+$daurl = 'https://api.chatfuel.com/bots/592eabfae4b0c446212c0749/users/' .$target . '/send?chatfuel_token=[INSERT_CHATFUEL_TOKEN_HERE]&chatfuel_block_id=59398f16e4b0ef6705b99be0&Time=' .$time . '';
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL,$daurl);
