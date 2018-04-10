@@ -6,7 +6,7 @@ $time= $_GET["Time"];
 $user= $_GET["User"];
 $phone= urlencode($_GET["Phone"]);
 
-$daurl = 'https://api.chatfuel.com/bots/592eabfae4b0c446212c0749/users/' .$target . '/send?chatfuel_token=vnbqX6cpvXUXFcOKr5RHJ7psSpHDRzO1hXBY8dkvn50ZkZyWML3YdtoCnKH7FSjC&chatfuel_block_id=59398fc7e4b0ef6705bb5826&People=' .$people . '&Name=' .$name . '&Phone=' .$phone . '&Time=' .$time . '&User=' .$user . '';
+$daurl = 'https://api.chatfuel.com/bots/users/' .$target . '/send?chatfuel_token=[INSERT_CHATFUEL_TOKEN]&chatfuel_block_id=59398fc7e4b0ef6705bb5826&People=' .$people . '&Name=' .$name . '&Phone=' .$phone . '&Time=' .$time . '&User=' .$user . '';
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL,$daurl);
